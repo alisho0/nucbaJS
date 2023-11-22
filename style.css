@@ -1,0 +1,15 @@
+body, h3, h2 {
+    margin: 0;
+}
+
+header {
+    padding: 1rem;
+}
+
+main {
+    height: 85vh;
+}
+
+footer, main, header {
+    background-color: rgb(53, 53, 53);
+}
